@@ -1,7 +1,3 @@
-Here’s a more concise and creative README for your project:
-
----
-
 # 🩸 Enhancing Leukemia Diagnosis with Machine Learning: A Custom ResNet50 Approach
 
 ## Overview
