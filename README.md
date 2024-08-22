@@ -33,9 +33,9 @@ Utilized the **C-NMC leukemia dataset** with 10,661 images, focusing on acute ly
 ### Experimental Results:
 The customized ResNet50 model demonstrated superior performance over traditional models, achieving high accuracy and balanced accuracy. Key classifiers tested include:
 
-- **Support Vector Classifier (SVC).
-- **XGBoost Classifier (XGBClassifier).
-- **LightGBM Classifier (LGBMClassifier).
+- Support Vector Classifier (SVC).
+- XGBoost Classifier (XGBClassifier).
+- LightGBM Classifier (LGBMClassifier).
 
 ## Results
 
